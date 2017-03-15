@@ -1,1 +1,2 @@
 my name is pradeep
+this is how merge conflicts occurs
