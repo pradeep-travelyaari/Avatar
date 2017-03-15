@@ -1,0 +1,10 @@
+E:\Projects\MonthlyCalculator\MonthlyCalculator\bin\Debug\MonthlyCalculator.exe.config
+E:\Projects\MonthlyCalculator\MonthlyCalculator\bin\Debug\MonthlyCalculator.exe
+E:\Projects\MonthlyCalculator\MonthlyCalculator\bin\Debug\MonthlyCalculator.pdb
+E:\Projects\MonthlyCalculator\MonthlyCalculator\obj\Debug\MonthlyCalculator.csprojResolveAssemblyReference.cache
+E:\Projects\MonthlyCalculator\MonthlyCalculator\obj\Debug\MonthlyCalculator.Properties.Resources.resources
+E:\Projects\MonthlyCalculator\MonthlyCalculator\obj\Debug\MonthlyCalculator.csproj.GenerateResource.Cache
+E:\Projects\MonthlyCalculator\MonthlyCalculator\obj\Debug\MonthlyCalculator.exe
+E:\Projects\MonthlyCalculator\MonthlyCalculator\obj\Debug\MonthlyCalculator.pdb
+E:\Projects\MonthlyCalculator\MonthlyCalculator\obj\Debug\MonthlyCalculator.Form2.resources
+E:\Projects\MonthlyCalculator\MonthlyCalculator\obj\Debug\MonthlyCalculator.LoginForm.resources
